@@ -1,4 +1,4 @@
-# How to setup React Router Server Components on Netlify (Experimental RSC)
+# How to deploy React Router Server Components on Netlify (Experimental RSC)
 
 ⚠️ **EXPERIMENTAL**: This template demonstrates React Server Components with React Router. This is experimental technology and not recommended for production use.
 
