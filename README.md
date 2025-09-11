@@ -4,6 +4,8 @@
 
 A modern template for exploring React Server Components (RSC) with React Router, powered by Vite.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zdunecki/how-to-deploy-react-router-server-components-on-netlify)
+
 ## Features
 
 - 🧪 **Experimental React Server Components**
